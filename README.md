@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -49,4 +50,8 @@
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/1768-merge-strings-alternately) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
