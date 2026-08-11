@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0468-validate-ip-address](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0468-validate-ip-address) |
+| [1768-merge-strings-alternately](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
