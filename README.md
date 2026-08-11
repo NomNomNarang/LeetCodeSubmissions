@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0468-validate-ip-address](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0468-validate-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -46,5 +47,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
