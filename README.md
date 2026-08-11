@@ -17,11 +17,13 @@
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [3731-find-missing-elements](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -30,9 +32,11 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
