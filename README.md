@@ -19,15 +19,18 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
