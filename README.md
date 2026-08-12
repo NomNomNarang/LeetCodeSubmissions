@@ -22,12 +22,14 @@
 | [0238-product-of-array-except-self](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
