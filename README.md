@@ -22,6 +22,7 @@
 | [0238-product-of-array-except-self](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/0503-next-greater-element-ii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3731-find-missing-elements) |
