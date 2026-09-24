@@ -14,10 +14,12 @@
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NomNomNarang/LeetCodeSubmissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
